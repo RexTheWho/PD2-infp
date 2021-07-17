@@ -1,0 +1,100 @@
+<table>
+	<unit>
+		<sequence editable_state="false" name="'done_hit'" triggable="false"/>
+		<sequence editable_state="true" name="'state_vis_show'" triggable="true">
+			<body enabled="true" name="'body0'"/>
+			<decal_mesh enabled="true" name="'c_c'"/>
+			<object enabled="true" name="'g_g'"/>
+			<function extension="'digital_gui'" function="'set_visible'" param1="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'state_vis_hide'" triggable="true">
+			<body enabled="false" name="'body0'"/>
+			<decal_mesh enabled="false" name="'c_c'"/>
+			<object enabled="false" name="'g_g'"/>
+			<function extension="'digital_gui'" function="'set_visible'" param1="false"/>
+		</sequence>
+		<sequence editable_state="true" name="'white_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'white'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'red_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'red'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'green_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'green'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'blue_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'blue'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'yellow_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'yellow'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'orange_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'orange'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'light_red_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'light_red'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'light_green_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'light_green'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'light_blue_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'light_blue'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'light_yellow_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'light_yellow'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'light_orange_on_black'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'light_orange'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1=""/>
+		</sequence>
+		<sequence editable_state="true" name="'black_on_light_red'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'black'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1="'light_red'"/>
+		</sequence>
+		<sequence editable_state="true" name="'black_on_light_green'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'black'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1="'light_green'"/>
+		</sequence>
+		<sequence editable_state="true" name="'black_on_light_blue'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'black'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1="'light_blue'"/>
+		</sequence>
+		<sequence editable_state="true" name="'black_on_light_yellow'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'black'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1="'light_yellow'"/>
+		</sequence>
+		<sequence editable_state="true" name="'black_on_light_orange'" triggable="true">
+			<function extension="'digital_gui'" function="'set_color_type'" param1="'black'"/>
+			<function extension="'digital_gui'" function="'set_bg_color_type'" param1="'light_orange'"/>
+		</sequence>
+		<sequence editable_state="false" name="'number_increase'" triggable="true">
+			<function extension="'digital_gui'" function="'number_increase'"/>
+		</sequence>
+		<sequence editable_state="false" name="'number_decrease'" triggable="true">
+			<function extension="'digital_gui'" function="'number_decrease'"/>
+		</sequence>
+		<sequence editable_state="false" name="'timer_start_count_up'" triggable="true">
+			<function extension="'digital_gui'" function="'timer_start_count_up'"/>
+		</sequence>
+		<sequence editable_state="false" name="'timer_start_count_down'" triggable="true">
+			<function extension="'digital_gui'" function="'timer_start_count_down'"/>
+		</sequence>
+		<sequence editable_state="false" name="'timer_pause'" triggable="true">
+			<function extension="'digital_gui'" function="'timer_pause'"/>
+		</sequence>
+		<sequence editable_state="false" name="'timer_resume'" triggable="true">
+			<function extension="'digital_gui'" function="'timer_resume'"/>
+		</sequence>
+		<sequence editable_state="false" name="'timer_reach_zero'" triggable="false"/>
+	</unit>
+</table>

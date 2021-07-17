@@ -1,0 +1,17 @@
+<dynamic_object>
+    <diesel orientation_object="rp_root" materials="units/res_floor_counter/res_floor_counter" />
+	<sequence_manager file="units/res_floor_counter/res_floor_counter" />	
+	<bodies>
+		<body enabled="true" template="static" name="body0" >
+			<object name="rp_root" />
+			<object collision_type="box" name="c_c" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="steel">
+		<decal_mesh name="c_c" enabled="true" material="steel" />
+	</decal_surfaces>	
+    <graphics>
+        <object enabled="true" name="g_g" />
+        <object enabled="false" name="gui" />
+    </graphics>
+</dynamic_object>

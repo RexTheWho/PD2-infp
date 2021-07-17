@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<unit type="dev" slot="1">
+	<object file="units/res_looper_interaction/res_looper_interaction" />
+	 <network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData">
+			<var name="only_visible_in_editor" value="true" />
+		</extension>
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="invisible_interaction_open" />
+			<!-- <var name="_global_event" value="infp_loop_start" /> -->
+		</extension>
+	</extensions>
+</unit>

@@ -1,0 +1,22 @@
+<unit type="gen" slot="1" >
+	<object file="units/res_floor_counter/res_floor_counter" />
+	<network sync="spawn"/>
+	<dependencies>
+		<!-- <depends_on font="fonts/font_eroded" /> -->
+	</dependencies>	
+	<extensions>
+		<extension class="ScriptUnitData" name="unit_data" />
+		<extension class="UnitDamage" name="damage" />		
+		<extension class="DigitalGui" name="digital_gui" >
+			<var name="_gui_object" value="gui" />
+			<var name="FONT_SIZE" value="350" />
+			<var name="FONT" value="fonts/font_eroded" />
+			<var name="TYPE" value="number" />
+			<var name="NUMBER_DIGITS" value="1" />
+			<var name="WIDTH" value="1200" />
+			<var name="HEIGHT" value="400" />
+		</extension>
+	</extensions>
+	<sounds>
+	</sounds>
+</unit>

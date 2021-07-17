@@ -1,0 +1,60 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="200.523 57.0274 0" _prev_rot="0 0 0.71934 -0.694658" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="-5 5.96046e-007 0" local_rot="0 0 -0.997564 -0.069757" name="units/world/props/apartment/residential/props_residential_carpet_01_1m" name_id="props_residential_carpet_01_1m_001" position="200.523 57.0274 0" rotation="0 0 0.71934 -0.694658" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 62 0" _prev_rot="0 0 -0.743145 -0.66913" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/apartment/residential/props_residential_carpet_02_1m" name_id="props_residential_carpet_02_1m_001" position="200 62 0" rotation="0 0 -0.743145 -0.66913" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 0 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="true" disable_collision="false" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_arrow" name_id="com_int_basement_garage_parkingline_arrow_001" position="200 0 400" rotation="0 0 -0.707107 -0.707107" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="150 0 0" local_rot="0 0 0.707107 0.707107" mesh_variation="close_out" name="units/world/architecture/apartment/door/apartment_door_reinforced_01" name_id="DOOR_HEAVY" position="150 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="235 -15 90" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_cro/lockpick_interactable/lockpick_interactable" name_id="lockpick_interactable_001" position="235 -10 90" rotation="0 0 1 -4.37114e-008" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="135 15 90" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="235 15 90" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_cro/lockpick_interactable/lockpick_interactable" name_id="lockpick_interactable_002" position="235 15 90" rotation="0 0 0 -1" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/res_walls/destroyed" name_id="destroyed_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_door" only_visible_in_editor="true" position="200 0 0" rotation="-0 0 -0 -1" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/res_walls/wall" name_id="wall_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -15 165" _prev_rot="-0.575667 0.410619 -0.410619 -0.575666" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/equipment/c4_charge/c4_plantable" name_id="c4_plantable_in" position="200 -15 165" rotation="-0.599661 -0.374709 0.374709 -0.599661" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 15 165" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-4.47035e-006 -8.04663e-006 -30" local_rot="-1.19209e-007 -1 1.19209e-007 -1.49012e-008" mesh_variation="show" name="units/equipment/c4_charge/c4_plantable" name_id="c4_plantable_out" position="200 15 165" rotation="-0.410619 0.575667 0.575667 0.410619" unit_id="100021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_out" name="units/pd2_dlc_flat/props/flt_prop_apartment_door/flt_prop_apartment_door_01" name_id="DOOR_WOODEN001" position="150 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 0 -200" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_out" name="units/pd2_dlc_flat/props/flt_prop_apartment_door/flt_prop_apartment_door_03" name_id="DOOR_STORAGE001" position="150 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 0 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_out" name="units/pd2_dlc_flat/props/flt_prop_apartment_door/flt_prop_apartment_door_03" name_id="DOOR_STORAGE002" position="150 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_on_ai_graph="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_door_bars/flt_prop_door_bars" name_id="flt_prop_door_bars_001" position="200 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/res_walls/doorsingle2" name_id="doorsingle1_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="243 1 103" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_hack_time_60s" name="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small_no_jam" name_id="gen_interactable_drill_small_no_jam_001" position="243 1 103" rotation="-0 0 -0 -1" unit_id="100005"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

@@ -1,0 +1,5 @@
+<table>
+	<coverpoints_only file="coverpoints_only/coverpoints_only"/>
+	<editor_only file="editor_only/editor_only"/>
+	<world file="world/world"/>
+</table>

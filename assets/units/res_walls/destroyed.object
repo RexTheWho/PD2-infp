@@ -1,0 +1,17 @@
+<dynamic_object>
+	<diesel materials="units/res_walls/res_walls" orientation_object="rp_destroyed" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="c_destroyed_01" collision_type="box" padding="-2.5"/>
+			<object name="c_destroyed_02" collision_type="box" padding="-2.5"/>
+			<object name="c_destroyed_03" collision_type="convex" padding="-2.5"/>
+			<object name="c_destroyed_04" collision_type="convex" padding="-2.5"/>
+		</body>
+	</bodies>
+	<decal_surfaces>
+		<decal_mesh name="g_destroyed" enabled="true" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_destroyed" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>

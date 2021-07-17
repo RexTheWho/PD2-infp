@@ -1,0 +1,269 @@
+<table>
+	<editor_groups>
+		<table continent="world" name="grp1" reference="100026" visible="true">
+			<units>
+				<value_node value="100026"/>
+				<value_node value="100027"/>
+				<value_node value="100025"/>
+				<value_node value="100094"/>
+				<value_node value="100024"/>
+				<value_node value="100031"/>
+				<value_node value="100033"/>
+				<value_node value="100090"/>
+				<value_node value="100022"/>
+				<value_node value="100020"/>
+				<value_node value="100023"/>
+				<value_node value="100001"/>
+				<value_node value="100010"/>
+				<value_node value="100089"/>
+				<value_node value="100086"/>
+				<value_node value="100097"/>
+				<value_node value="100091"/>
+			</units>
+		</table>
+		<table continent="world" name="grp2" reference="100085" visible="true">
+			<units>
+				<value_node value="100008"/>
+				<value_node value="100007"/>
+				<value_node value="100035"/>
+				<value_node value="100006"/>
+			</units>
+		</table>
+		<table continent="world" name="grp3" reference="100093" visible="true">
+			<units>
+				<value_node value="100092"/>
+				<value_node value="100081"/>
+				<value_node value="100080"/>
+				<value_node value="100079"/>
+				<value_node value="100084"/>
+				<value_node value="100082"/>
+				<value_node value="100083"/>
+				<value_node value="100034"/>
+			</units>
+		</table>
+		<table continent="world" name="grp4" reference="100030" visible="true">
+			<units>
+				<value_node value="100054"/>
+				<value_node value="100055"/>
+				<value_node value="100050"/>
+				<value_node value="100037"/>
+				<value_node value="100053"/>
+				<value_node value="100038"/>
+				<value_node value="100052"/>
+				<value_node value="100039"/>
+				<value_node value="100040"/>
+				<value_node value="100036"/>
+				<value_node value="100041"/>
+				<value_node value="100048"/>
+				<value_node value="100049"/>
+				<value_node value="100042"/>
+				<value_node value="100047"/>
+			</units>
+		</table>
+		<table continent="world" name="grp5" reference="100012" visible="true">
+			<units>
+				<value_node value="100012"/>
+				<value_node value="100014"/>
+				<value_node value="100018"/>
+				<value_node value="100015"/>
+				<value_node value="100011"/>
+			</units>
+		</table>
+	</editor_groups>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="240.22 69.947 0" _prev_rot="0 0 -0.67559 -0.737277" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="136.22 -163.053 0" local_rot="0 0 0.67559 0.737277" name="units/world/props/mansion/man_cover_int_shipping_crate_wide/man_cover_int_shipping_crate_wide" name_id="seats_b_02" position="240.22 69.947 0" rotation="0 0 -0.67559 -0.737277" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="243.122 68.689 111.565" _prev_rot="0 0 0.34202 -0.939693" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="139.122 -164.311 111.565" local_rot="-0 0 -0.34202 0.939693" name="units/pd2_dlc_flat/props/flt_prop_secret_stash_sofa/flt_prop_secret_stash_pillow" name_id="seats_b_02_props_01" position="243.122 68.689 111.565" rotation="0 0 0.34202 -0.939693" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="104 233 0" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_secret_stash_sofa/flt_prop_secret_stash_sofa_1_a" name_id="flt_prop_secret_stash_sofa_1_a_002" position="104 233 0" rotation="-0 0 -0 -1" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="103.715 205.89 57.8" _prev_rot="-0.572061 0.415627 0.415627 -0.572061" continent="world" disable_shadows="true" instance_data="false" local_pos="18.715 105.89 57.8" local_rot="0.572061 -0.415627 -0.415627 0.572061" name="units/payday2/props/res_prop_kitchen_table_c_long_worn_grime/res_prop_kitchen_table_c_long_worn_grime" name_id="tableflip_reeeeeee" position="103.715 190.89 57.8" rotation="-0.572061 0.415627 0.415627 -0.572061" unit_id="100018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="103 235 44.67" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="18 135 44.67" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/props/off_prop_officehigh_filebox/off_prop_officehigh_filebox_short_whole" name_id="seats_a_01_props_01" position="103 220 44.67" rotation="0 0 1 4.37114e-008" unit_id="100024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="98.16 236.07 70.67" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="13.16 136.07 70.67" local_rot="0 0 -0.707107 0.707107" name="units/payday2/props/off_prop_officehigh_filebox/off_prop_officehigh_filebox_short_whole" name_id="seats_a_01_props_01" position="98.16 221.07 70.67" rotation="0 0 0.707107 -0.707107" unit_id="100025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="62.354 236.025 68.67" _prev_rot="-0.000225407 0.0087267 0.026172 -0.999619" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="-22.646 136.025 68.67" local_rot="0.000225407 -0.0087267 -0.026172 0.999619" name="units/payday2/props/off_prop_officehigh_filebox/off_prop_officehigh_filebox_long_open_b" name_id="seats_a_01_props_01" position="62.354 221.025 68.67" rotation="-0.000225407 0.0087267 0.026172 -0.999619" unit_id="100026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="63.117 234.111 43.67" _prev_rot="-0.000228434 0.00872355 -0.026176 -0.999619" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="-21.883 134.111 43.67" local_rot="0.000228434 -0.00872355 0.026176 0.999619" name="units/payday2/props/off_prop_officehigh_filebox/off_prop_officehigh_filebox_short_whole" name_id="seats_a_01_props_01" position="63.117 219.111 43.67" rotation="-0.000228434 0.00872355 -0.026176 -0.999619" unit_id="100027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="92.021 119.879 45.61" _prev_rot="0 0 -0.382683 -0.92388" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="7.021 19.879 45.61" local_rot="0 0 0.382683 0.92388" mesh_variation="" name="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03" name_id="middledesk_prop2" position="92.021 104.879 45.61" rotation="0 0 -0.382683 -0.92388" unit_id="100031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="92 251 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="7 151 0" local_rot="0 0 0 1" name="units/payday2/props/res_prop_livingroom_couch_b_worn/res_prop_livingroom_couch_b_worn" name_id="seats_a_01" position="92 236 0" rotation="0 0 0 -1" unit_id="100033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="244 221 0" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/str_veg_potted_plant/str_veg_potted_plant" name_id="corner_filler_03" position="244 221 0" rotation="-0 0 -0 -1" unit_id="100034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="243.398 227.126 0" _prev_rot="0 0 -0.333807 -0.942642" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/gym/stn_prop_coat_rack/stn_prop_coat_rack" name_id="corner_filler_02" position="243.398 227.126 0" rotation="0 0 -0.333807 -0.942642" unit_id="100035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="243.669 109.284 80.086" _prev_rot="0 0 -0.71325 -0.700909" continent="world" disable_shadows="true" instance_data="false" local_pos="158.669 9.284 80.086" local_rot="0 0 0.71325 0.700909" name="units/pd2_dlc_flat/props/flt_prop_cardboard_cube/flt_prop_cardboard_cube" name_id="masspile_b" position="243.669 94.284 80.086" rotation="0 0 -0.71325 -0.700909" unit_id="100036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="161.208 93.349 83" _prev_rot="0 0 0.743145 -0.669131" continent="world" disable_shadows="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_b" position="161.208 93.349 83" rotation="0 0 0.743145 -0.669131" unit_id="100037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="164.192 108.035 41" _prev_rot="0 0 0.99863 0.0523359" continent="world" disable_shadows="true" instance_data="false" local_pos="79.192 8.035 41" local_rot="0 0 -0.99863 -0.0523359" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_b" position="164.192 93.035 41" rotation="0 0 0.99863 0.0523359" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="164.838 108.347 0" _prev_rot="0 0 0.999391 0.0348994" continent="world" disable_shadows="true" instance_data="false" local_pos="79.838 8.347 0" local_rot="0 0 -0.999391 -0.0348994" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_b" position="164.838 93.347 0" rotation="0 0 0.999391 0.0348994" unit_id="100039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="156.019 177.27 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_shadows="true" instance_data="false" local_pos="71.019 77.27 0" local_rot="0 0 -1 4.37114e-008" name="units/world/props/mansion/man_cover_int_shipping_crate_small/man_cover_int_shipping_crate_small" name_id="masspile_b" position="156.019 162.27 0" rotation="0 0 1 -4.37114e-008" unit_id="100040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="252.019 144.27 107.086" _prev_rot="-0.0246776 0.706676 0.706676 -0.0246776" continent="world" disable_shadows="true" instance_data="false" local_pos="167.019 44.27 107.086" local_rot="0.0246776 -0.706676 -0.706676 0.0246776" mesh_variation="" name="units/world/props/apartment/tv/tv_01" name_id="masspile_b" position="252.019 129.27 107.086" rotation="-0.0246776 0.706676 0.706676 -0.0246776" unit_id="100041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="234.019 121.27 0" _prev_rot="0 0 0.71934 -0.694658" continent="world" disable_shadows="true" instance_data="false" local_pos="149.019 21.27 0" local_rot="0 0 -0.71934 0.694658" name="units/pd2_indiana/props/mus_prop_curator_desk/mus_prop_curator_desk" name_id="masspile_b" position="234.019 106.27 0" rotation="0 0 0.71934 -0.694658" unit_id="100042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="209.996 260 0" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_shadows="true" instance_data="false" local_pos="124.996 160 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_drawer_125cm" name_id="masspile_a" position="209.996 245 0" rotation="0 0 1 4.37114e-008" unit_id="100047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="179.568 273.242 75.409" _prev_rot="0 0 0.999848 -0.0174524" continent="world" disable_shadows="true" instance_data="false" local_pos="94.568 173.242 75.409" local_rot="0 0 -0.999848 0.0174524" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_a" position="179.568 258.242 75.409" rotation="0 0 0.999848 -0.0174524" unit_id="100048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="230.303 255.163 75.409" _prev_rot="0 0 0.731354 -0.681998" continent="world" disable_shadows="true" instance_data="false" local_pos="145.303 155.163 75.409" local_rot="0 0 -0.731354 0.681998" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box_open" name_id="masspile_a" position="230.303 240.163 75.409" rotation="0 0 0.731354 -0.681998" unit_id="100049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="19.996 266 0" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" instance_data="false" local_pos="-65.004 166 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox_2" name_id="masspile_a" position="19.996 251 0" rotation="0 0 0 -1" unit_id="100050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="86.858 236.808 0" _prev_rot="0 0 0.996195 0.0871557" continent="world" disable_shadows="true" instance_data="false" local_pos="1.858 136.808 0" local_rot="0 0 -0.996195 -0.0871557" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_a" position="86.858 221.808 0" rotation="0 0 0.996195 0.0871557" unit_id="100052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="87.532 238.224 43" _prev_rot="0 0 0.0436194 -0.999048" continent="world" disable_shadows="true" instance_data="false" local_pos="2.532 138.224 43" local_rot="0 0 -0.0436194 0.999048" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box_open" name_id="masspile_a" position="87.532 223.224 43" rotation="0 0 0.0436194 -0.999048" unit_id="100053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="34.724 234.832 42" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_shadows="true" instance_data="false" local_pos="-50.276 134.832 42" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_a" position="34.724 219.832 42" rotation="0 0 -0.707107 -0.707107" unit_id="100054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="31.861 234.368 0" _prev_rot="0 0 0.0436194 -0.999048" continent="world" disable_shadows="true" instance_data="false" local_pos="-53.139 134.368 0" local_rot="0 0 -0.0436194 0.999048" name="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" name_id="masspile_a" position="31.861 219.368 0" rotation="0 0 0.0436194 -0.999048" unit_id="100055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="219 105 0" _prev_rot="0 0 0.00872654 -0.999962" continent="world" disable_shadows="true" instance_data="false" local_pos="134 5 0" local_rot="0 0 -0.00872654 0.999962" name="units/world/props/box/box_evidence" name_id="seats_b_03" position="219 90 0" rotation="0 0 0.00872654 -0.999962" unit_id="100079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="215.985 105.756 24.144" _prev_rot="0 0 0.0610485 -0.998135" continent="world" disable_shadows="true" instance_data="false" local_pos="130.985 5.756 24.144" local_rot="0 0 -0.0610485 0.998135" name="units/world/props/box/box_evidence" name_id="seats_b_03" position="215.985 90.756 24.144" rotation="0 0 0.0610485 -0.998135" unit_id="100080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="216.983 104.035 47" _prev_rot="0 0 0.00872654 -0.999962" continent="world" disable_shadows="true" instance_data="false" local_pos="131.983 4.035 47" local_rot="0 0 -0.00872654 0.999962" name="units/world/props/box/box_evidence" name_id="seats_b_03" position="216.983 89.035 47" rotation="0 0 0.00872654 -0.999962" unit_id="100081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="247 94 0" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" instance_data="false" local_pos="162 -6 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox" name_id="seats_b_03" position="247 79 0" rotation="0 0 0 -1" unit_id="100082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="276.596 93.186 30" _prev_rot="0 0 -0.700909 -0.71325" continent="world" disable_shadows="true" instance_data="false" local_pos="191.596 -6.814 30" local_rot="0 0 0.700909 0.71325" name="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox" name_id="seats_b_03" position="276.596 78.186 30" rotation="0 0 -0.700909 -0.71325" unit_id="100083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="235 51 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_shadows="true" instance_data="false" local_pos="150 -49 0" local_rot="0 0 -1 4.37114e-008" name="units/world/props/mansion/man_cover_int_shipping_crate_small/man_cover_int_shipping_crate_small" name_id="seats_b_03" position="235 36 0" rotation="0 0 1 -4.37114e-008" unit_id="100084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="218.872 54.143 46" _prev_rot="-0.0119363 -0.0327948 0.93912 0.341812" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="133.872 -45.857 46" local_rot="0.0119363 0.0327948 -0.93912 -0.341812" name="units/pd2_dlc_cage/props/ind_prop_cardealership_magazine_book_set/ind_prop_cardealership_magazine_c" name_id="seats_b_01_props_01" position="218.872 39.143 46" rotation="-0.0119363 -0.0327948 0.93912 0.341812" unit_id="100086"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="85 100 0" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_table_coffee_wood/flt_prop_table_coffee_wood" name_id="middledesk" position="85 85 0" rotation="0 0 0 -1" unit_id="100089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="98 60 46" _prev_rot="0 0 -0.766044 -0.642788" continent="world" disable_shadows="true" instance_data="false" local_pos="13 -40 46" local_rot="0 0 0.766044 0.642788" name="units/pd2_mcmansion/props/mcm_prop_livingroom_magazine_book_set/mcm_prop_livingroom_magazine_e" name_id="middledesk_prop3" position="98 45 46" rotation="0 0 -0.766044 -0.642788" unit_id="100090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="234 87 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_shadows="true" instance_data="false" local_pos="149 -13 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/props/res_prop_livingroom_couch_b_worn/res_prop_livingroom_couch_b_worn" name_id="seats_b_01" position="234 72 0" rotation="0 0 0.707107 -0.707107" unit_id="100091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="86 253 0" _prev_rot="0 0 0.0610485 -0.998135" continent="world" disable_shadows="true" instance_data="false" local_pos="1 153 0" local_rot="0 0 -0.0610485 0.998135" name="units/payday2/props/res_prop_livingroom_couch_b_worn/res_prop_livingroom_armchair_b_worn" name_id="res_prop_livingroom_armchair_b_worn_003" position="86 238 0" rotation="0 0 0.0610485 -0.998135" unit_id="100092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="65 135 45.105" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="-20 35 45.105" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_flat/props/flt_prop_ashtray/flt_prop_ashtray" name_id="middledesk_prop1" position="65 120 45.105" rotation="0 0 0 -1" unit_id="100094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="249.822 265.488 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" instance_data="false" local_pos="164.822 165.488 0" local_rot="0 0 0 1" mesh_variation="state_unbreakable_lit" name="units/payday2/props/res_prop_livingroom_lamp_floor_worn_c_grime/res_prop_livingroom_lamp_floor_worn_c_grime" name_id="corner_filler_01" position="249.822 250.488 0" rotation="0 0 0 -1" unit_id="100097">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="4" far_range="250" multiplier="@ID3385027996510d31@" name="li_lamp" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="87.056 151.604 0" _prev_rot="0 0 0.999391 0.0348994" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="2.056 51.604 0" local_rot="0 0 -0.999391 -0.0348994" name="units/world/props/apartment/residential/props_residential_carpet_03_4m" name_id="rug001" position="87.056 136.604 0" rotation="0 0 0.999391 0.0348994" unit_id="100023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="250 50 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_corner_b" only_visible_in_editor="true" position="250 50 0" rotation="-0 0 -0 -1" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="250 150 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_corner_b" only_visible_in_editor="true" position="250 150 0" rotation="-0 0 -0 -1" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 250 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_corner_a" only_visible_in_editor="true" position="150 250 0" rotation="-0 0 -0 -1" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50 250 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_corner_a" only_visible_in_editor="true" position="50 250 0" rotation="-0 0 -0 -1" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="250 250 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_corner_c" only_visible_in_editor="true" position="250 250 0" rotation="-0 0 -0 -1" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="39.382 238.023 0" _prev_rot="0 0 0.987688 -0.156434" continent="world" instance_data="false" local_pos="-25.0002 25.0001 0" local_rot="0 0 -0.707107 -0.707107" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_tableflip" only_visible_in_editor="true" position="39.382 238.023 0" rotation="0 0 0.987688 -0.156434" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="70.283 142.918 0" _prev_rot="0 0 0.987688 -0.156434" continent="world" instance_data="false" local_pos="-124.999 25.0005 0" local_rot="0 0 -0.707107 -0.707107" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_tableflip" only_visible_in_editor="true" position="70.283 142.918 0" rotation="0 0 0.987688 -0.156434" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="109.511 103.09 0" _prev_rot="0 0 -0.809017 -0.587785" continent="world" instance_data="false" local_pos="-175 1.52588e-005 0" local_rot="0 0 2.98023e-008 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_tableflip" only_visible_in_editor="true" position="109.511 103.09 0" rotation="0 0 -0.809017 -0.587785" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="55.433 269.525 0" _prev_rot="0 0 -0.809017 -0.587785" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_tableflip" only_visible_in_editor="true" position="55.433 269.525 0" rotation="0 0 -0.809017 -0.587785" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 50 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_fillmiddle" only_visible_in_editor="true" position="150 50 0" rotation="-0 0 -0 -1" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50 50 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_fillmiddle_point" only_visible_in_editor="true" position="50 50 0" rotation="-0 0 -0 -1" unit_id="100016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="50 150 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_fillmiddle" only_visible_in_editor="true" position="50 150 0" rotation="-0 0 -0 -1" unit_id="100017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="150 150 0" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_fillmiddle_core" only_visible_in_editor="true" position="150 150 0" rotation="-0 0 -0 -1" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="87.056 151.604 0" _prev_rot="0 0 0.999391 0.0348994" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="2.056 51.604 0" local_rot="0 0 -0.999391 -0.0348994" name="units/world/props/apartment/residential/props_residential_carpet_03_3m" name_id="rug002" position="87.056 136.604 0" rotation="0 0 0.999391 0.0348994" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="87.056 151.604 0" _prev_rot="0 0 0.731354 -0.681998" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="2.056 51.604 0" local_rot="0 0 -0.731354 0.681998" name="units/world/props/apartment/residential/props_residential_carpet_02_1m" name_id="rug003" position="87.056 136.604 0" rotation="0 0 0.731354 -0.681998" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="87.056 151.604 0" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="2.05603 51.604 0" local_rot="0 0 0 1" name="units/world/props/apartment/residential/props_residential_carpet_04_4m" name_id="rug004" position="87.056 136.604 0" rotation="0 0 0 -1" unit_id="100020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="87.056 151.604 0" _prev_rot="0 0 -0.130526 -0.991445" continent="world" disable_collision="false" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="2.05602 51.604 0" local_rot="0 0 0.130526 0.991445" name="units/world/props/apartment/residential/props_residential_carpet_04_3m" name_id="rug005" position="87.056 136.604 0" rotation="0 0 -0.130526 -0.991445" unit_id="100022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="65.2343 39.9427 45.9331" _prev_rot="0 0 0.587785 -0.809017" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="money_wrap_single_bundle_001" position="65.2343 39.9427 45.9331" rotation="0 0 0.587785 -0.809017" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="153.468 81.2759 127.561" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="money_wrap_single_bundle_002" position="153.468 81.2759 127.561" rotation="0 0 -0.898794 -0.438371" unit_id="100021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="96.5199 214.727 98.72" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="money_wrap_single_bundle_003" position="96.5199 214.727 98.72" rotation="0 0 -0.622515 -0.782608" unit_id="100028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="229.672 226.623 56.6376" _prev_rot="0.0975836 0.842894 -0.0528313 -0.526512" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-14.3285 5.62337 56.6376" local_rot="-0.0975836 -0.842894 0.0528313 0.526512" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="money_wrap_single_bundle_004" position="229.672 226.623 56.6376" rotation="0.0975836 0.842894 -0.0528313 -0.526512" unit_id="100029"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

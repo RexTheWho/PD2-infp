@@ -1,0 +1,175 @@
+<table directory="assets">
+	<add unload_on_restart="true">
+		<model path="units/res_walls/wall" unload="true"/>
+		<object path="units/res_walls/wall" unload="true"/>
+		<unit load="true" path="units/res_walls/wall" unload="true"/>
+		<model path="units/res_walls/wallshort" unload="true"/>
+		<object path="units/res_walls/wallshort" unload="true"/>
+		<unit load="true" path="units/res_walls/wallshort" unload="true"/>
+		<model path="units/res_walls/corner" unload="true"/>
+		<object path="units/res_walls/corner" unload="true"/>
+		<unit load="true" path="units/res_walls/corner" unload="true"/>
+		<model path="units/res_walls/destroyed" unload="true"/>
+		<object path="units/res_walls/destroyed" unload="true"/>
+		<unit load="true" path="units/res_walls/destroyed" unload="true"/>
+		<model path="units/res_walls/doordouble" unload="true"/>
+		<object path="units/res_walls/doordouble" unload="true"/>
+		<unit load="true" path="units/res_walls/doordouble" unload="true"/>
+		<model path="units/res_walls/doorsingle1" unload="true"/>
+		<object path="units/res_walls/doorsingle1" unload="true"/>
+		<unit load="true" path="units/res_walls/doorsingle1" unload="true"/>
+		<model path="units/res_walls/doorsingle2" unload="true"/>
+		<object path="units/res_walls/doorsingle2" unload="true"/>
+		<unit load="true" path="units/res_walls/doorsingle2" unload="true"/>
+		<model path="units/res_walls/open" unload="true"/>
+		<object path="units/res_walls/open" unload="true"/>
+		<unit load="true" path="units/res_walls/open" unload="true"/>
+		<model path="units/res_walls/window" unload="true"/>
+		<object path="units/res_walls/window" unload="true"/>
+		<unit load="true" path="units/res_walls/window" unload="true"/>
+		<model path="units/res_walls/inner" unload="true"/>
+		<object path="units/res_walls/inner" unload="true"/>
+		<unit load="true" path="units/res_walls/inner" unload="true"/>
+		<material_config path="units/res_walls/res_walls" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_wall_1x4m_a_trim" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_wall_1x4m_a_trim" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_wall_1x4m_a_trim" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_wall_4m_c" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_wall_4m_c" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_wall_4m_c" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_wall_4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_wall_4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_wall_4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_wall_2m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_wall_2m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_wall_2m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/wall_destruction" type="unit">
+		<material_config path="units/world/architecture/secret_stash/secret_stash" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/wall_destruction" unload="true"/>
+		<physic_effect path="physic_effects/push_sphere" unload="true"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/wall_destruction" unload="true"/>
+		<unit path="units/world/architecture/secret_stash/props/wall_destruction" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_moon/props/moo_prop_mall_ceiling_lamp_indestructible/moo_prop_mall_ceiling_lamp_wall" type="unit">
+		<material_config path="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp" unload="true"/>
+		<effect load="true" path="effects/payday2/particles/window/car_window_small" unload="true"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter" unload="true"/>
+		<effect load="true" path="effects/particles/dest/sparks_lamp_dest" unload="true"/>
+		<object path="units/pd2_dlc_moon/props/moo_prop_mall_ceiling_lamp_indestructible/moo_prop_mall_ceiling_lamp_wall" unload="true"/>
+		<unit path="units/pd2_dlc_moon/props/moo_prop_mall_ceiling_lamp_indestructible/moo_prop_mall_ceiling_lamp_wall" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/apartment/door/apartment_door_reinforced_01" type="unit">
+		<material_config path="units/world/architecture/apartment/door/apartment_door_reinforced_01" unload="true"/>
+		<object path="units/world/architecture/apartment/door/apartment_door_reinforced_01" unload="true"/>
+		<sequence_manager path="units/world/architecture/apartment/door/apartment_door_reinforced_01" unload="true"/>
+		<unit path="units/world/architecture/apartment/door/apartment_door_reinforced_01" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/apartment/door/apartment_door_03" type="unit">
+		<material_config path="units/world/architecture/apartment/door/apartment_door_03" unload="true"/>
+		<object path="units/world/architecture/apartment/door/apartment_door_03" unload="true"/>
+		<sequence_manager path="units/world/architecture/apartment/door/apartment_door_03" unload="true"/>
+		<unit path="units/world/architecture/apartment/door/apartment_door_03" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/apartment/door/apartment_door_02" type="unit">
+		<material_config path="units/world/architecture/apartment/door/apartment_door_02" unload="true"/>
+		<object path="units/world/architecture/apartment/door/apartment_door_02" unload="true"/>
+		<sequence_manager path="units/world/architecture/apartment/door/apartment_door_02" unload="true"/>
+		<unit path="units/world/architecture/apartment/door/apartment_door_02" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/curtains/apartment_curtains" type="unit">
+		<material_config path="units/world/props/apartment/curtains/apartment_curtains" unload="true"/>
+		<object path="units/world/props/apartment/curtains/apartment_curtains" unload="true"/>
+		<unit path="units/world/props/apartment/curtains/apartment_curtains" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/diamond_heist/apartment/apartment_room/candygripper/candygripper" type="unit">
+		<material_config path="units/world/props/diamond_heist/apartment/apartment_room/candygripper/candygripper" unload="true"/>
+		<object path="units/world/props/diamond_heist/apartment/apartment_room/candygripper/candygripper" unload="true"/>
+		<unit path="units/world/props/diamond_heist/apartment/apartment_room/candygripper/candygripper" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/diamond_heist/apartment/apartment_room/mus/mus" type="unit">
+		<material_config path="units/world/props/diamond_heist/apartment/apartment_room/mus/mus" unload="true"/>
+		<object path="units/world/props/diamond_heist/apartment/apartment_room/mus/mus" unload="true"/>
+		<unit path="units/world/props/diamond_heist/apartment/apartment_room/mus/mus" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/apartment/hole_effect_unit" type="unit">
+		<effect load="true" path="effects/particles/dest/apartment_hole/apartment_hole_env" unload="true"/>
+		<effect load="true" path="effects/particles/dest/apartment_hole/apartment_hole_debris" unload="true"/>
+		<effect load="true" path="effects/particles/dest/apartment_hole/apartment_hole_fire" unload="true"/>
+		<material_config path="units/world/architecture/apartment/back_alley/apartment_alley" unload="true"/>
+		<object path="units/world/architecture/apartment/hole_effect_unit" unload="true"/>
+		<sequence_manager path="units/world/architecture/apartment/hole_effect_unit" unload="true"/>
+		<unit path="units/world/architecture/apartment/hole_effect_unit" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_pillar_05m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_pillar_05m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_pillar_05m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" unload="true"/>
+		<unit path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" unload="true"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/door_blocker/door_blocker" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/door_blocker/door_blocker" unload="true"/>
+		<unit path="units/dev_tools/level_tools/door_blocker/door_blocker" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_arrow" type="unit">
+		<material_config path="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline" unload="true"/>
+		<object path="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_arrow" unload="true"/>
+		<unit path="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_arrow" unload="true"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/navigation_blocker_1" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/navigation_blocker_1" unload="true"/>
+		<unit path="units/dev_tools/level_tools/navigation_blocker_1" unload="true"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/navigation_blocker_hlf" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/navigation_blocker_hlf" unload="true"/>
+		<unit path="units/dev_tools/level_tools/navigation_blocker_hlf" unload="true"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" unload="true"/>
+		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" unload="true"/>
+	</add>
+	<add from_db="true" path="guis/dlcs/anv/textures/pd2/blackmarket/icons/weapon_color/color_anv_02" type="texture"/>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" unload="true"/>
+		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" unload="true"/>
+	</add>
+	<add from_db="true" path="units/equipment/c4_charge/c4_mission_door" type="unit">
+		<material_config path="units/equipment/c4_charge/c4_mission_door" unload="true"/>
+		<object path="units/equipment/c4_charge/c4_mission_door" unload="true"/>
+		<sequence_manager path="units/equipment/c4_charge/c4_mission_door" unload="true"/>
+		<unit path="units/equipment/c4_charge/c4_mission_door" unload="true"/>
+	</add>
+	<add from_db="true" path="units/equipment/c4_charge/c4_plantable" type="unit">
+		<material_config path="units/equipment/c4_charge/c4_plantable" unload="true"/>
+		<object path="units/equipment/c4_charge/c4_plantable" unload="true"/>
+		<sequence_manager path="units/equipment/c4_charge/c4_plantable" unload="true"/>
+		<unit path="units/equipment/c4_charge/c4_plantable" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_lobby/are_cross" type="unit">
+		<unit path="units/pd2_dlc_arena/architecture/are_lobby/are_cross" unload="true"/>
+		<object path="units/pd2_dlc_arena/architecture/are_lobby/are_cross" unload="true"/>
+		<material_config path="units/pd2_dlc_arena/architecture/are_lobby/are_cross" unload="true"/>
+	</add>
+</table>

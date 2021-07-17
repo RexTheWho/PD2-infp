@@ -1,0 +1,42 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="false" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/res_walls/destroyed" name_id="destroyed_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="true" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/res_walls/wall" name_id="wall_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="300 -50 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x2x3" name_id="dev_door_blocker_1x2x3_001" only_visible_in_editor="true" position="300 -50 0" rotation="0 0 -0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="100 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="3.57628e-005 100 0" local_rot="0 0 1 1.49012e-007" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" name_id="dev_nav_blocker_1x3m_001" only_exists_in_editor="true" position="100 0 0" rotation="0 0 -0.707107 -0.707107" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="-0 -0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" name_id="dev_nav_blocker_1x3m_002" only_exists_in_editor="true" position="0 0 0" rotation="0 0 -0.707107 0.707107" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" name_id="dev_nav_blocker_1x3m_003" only_exists_in_editor="true" position="300 0.000107288 0" rotation="0 0 0.707107 -0.707107" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="400 0.000107288 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x3m" name_id="dev_nav_blocker_1x3m_004" only_exists_in_editor="true" position="400 0.000107288 0" rotation="0 0 -0.707107 -0.707107" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -15 165" _prev_rot="-0.707107 0 0 -0.707107" continent="world" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/equipment/c4_charge/c4_plantable" name_id="c4_plantable_in" position="200 -15 165" rotation="-0.707107 0 0 -0.707107" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 15 165" _prev_rot="-0.707107 0 0 -0.707107" continent="world" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/equipment/c4_charge/c4_plantable" name_id="c4_plantable_out" position="200 15 165" rotation="3.09086e-008 -0.707107 -0.707107 3.09086e-008" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 -15 150" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="true" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/architecture/are_lobby/are_cross" name_id="are_cross_001" position="200 -15 150" rotation="-0 0 -0 -1" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="200 15 150" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="true" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/architecture/are_lobby/are_cross" name_id="are_cross_002" position="200 15 150" rotation="0 0 1 -4.37114e-008" unit_id="100010"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

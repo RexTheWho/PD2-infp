@@ -1,0 +1,8 @@
+<table directory="assets">
+	<add unload_on_restart="true">
+		<material_config	path="units/pd2_mod_mjt/rex1/materials" unload="true"/>
+		<model				path="units/pd2_mod_mjt/rex1/rex1_ground" unload="true"/>
+		<object				path="units/pd2_mod_mjt/rex1/rex1_ground" unload="true"/>
+		<unit				load="true" path="units/pd2_mod_mjt/rex1/rex1_ground" unload="true"/>
+	</add>
+</table>

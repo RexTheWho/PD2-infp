@@ -1,0 +1,33 @@
+<table directory="assets">
+	<add from_db="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_window_01" type="unit">
+		<material_config path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_window_01" unload="true"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter" unload="true"/>
+		<object path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_window_01" unload="true"/>
+		<sequence_manager path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_window_01" unload="true"/>
+		<unit path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_window_01" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_planks_outline_no_sunray" type="unit">
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_planks_outline_no_sunray" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_planks_outline_no_sunray" unload="true"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/secret_stash_planks_outline_no_sunray" unload="true"/>
+		<unit path="units/world/architecture/secret_stash/props/planks_debris" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/planks_debris" unload="true"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/planks_debris" unload="true"/>
+		<bnk path="soundbanks/regular_sfx" unload="true"/>
+		<effect load="true" path="effects/particles/dest/stair_dest" unload="true"/>
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_planks_outline" unload="true"/>
+		<physic_effect path="physic_effects/push_sphere" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_apartment_window" type="unit">
+		<unit path="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_apartment_window" unload="true"/>
+		<object path="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_apartment_window" unload="true"/>
+		<material_config path="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_apartment_window" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_apartment_window" unload="true"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter" unload="true"/>
+	</add>
+</table>

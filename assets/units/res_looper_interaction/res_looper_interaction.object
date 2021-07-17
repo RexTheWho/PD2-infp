@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/res_looper_interaction/res_looper_interaction" orientation_object="rp_interaction_ball" />
+  <sequence_manager file="units/res_looper_interaction/res_looper_interaction" />
+  <bodies>
+	<body name="static_body" enabled="true" template="editor" collides_with_mover="false" remove_ray_type="bullet">
+		<object name="g_ball" collision_type="box" />
+	</body>
+  </bodies>
+  <graphics>
+    <object name="g_ball" enabled="true" />
+  </graphics>
+</dynamic_object>

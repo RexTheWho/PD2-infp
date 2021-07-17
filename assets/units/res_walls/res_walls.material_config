@@ -1,0 +1,49 @@
+<materials version="3">
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+	<material name="mat_wall" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_wall02_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_wall_blend_nm"/>
+	</material>
+	
+	<material name="mat_wall_rough" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_wall_blend_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_wall_blend_nm"/>
+	</material>
+	
+	<material name="mat_wood" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_hole_broken_wood_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_hole_broken_wood_nm"/>
+	</material>
+	
+	<material name="mat_bricks" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_red_brick_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_red_brick_nm"/>
+	</material>
+	
+	<material name="mat_floor_wood1" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_floor_wood01_blend_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_floor_wood01_blend_nm"/>
+	</material>
+	
+	<material name="mat_floor_wood2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_floor_wood02_blend_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_floor_wood02_blend_nm"/>
+	</material>
+	
+	<material name="mat_floor_tiles" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_wall_tiles_blend_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_wall_tiles_blend_nm"/>
+	</material>
+	
+	<material name="mar_ceiling1" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_celing01_blend_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_celing01_blend_nm"/>
+	</material>
+	
+	<material name="mar_ceiling2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
+		<diffuse_texture		file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_celing02_blend_df"/>
+		<bump_normal_texture	file="units/pd2_dlc_flat/architecture/flt_int_apartment_interior/flt_int_celing02_blend_nm"/>
+	</material>
+	
+	
+</materials>

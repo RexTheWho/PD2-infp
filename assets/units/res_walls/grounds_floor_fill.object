@@ -1,0 +1,14 @@
+<dynamic_object>
+	<diesel materials="units/res_walls/res_walls" orientation_object="rp_grounds_floor_fill" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="g_grounds_floor_fill" collision_type="mesh_mopp" padding="-2.5"/>
+		</body>
+	</bodies>
+	<decal_surfaces>
+		<decal_mesh name="g_grounds_floor_fill" enabled="true" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_grounds_floor_fill" enabled="true" />
+	</graphics>
+</dynamic_object>

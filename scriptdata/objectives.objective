@@ -1,0 +1,5 @@
+<table>
+	<objective description="infp_find_methlab_desc" id="infp_find_methlab" text="infp_find_methlab"/>
+	<objective description="infp_find_weapons_desc" id="infp_find_weapons" text="infp_find_weapons"/>
+	<objective description="infp_secure_or_escape_desc" id="infp_secure_or_escape" text="infp_secure_or_escape"/>
+</table>

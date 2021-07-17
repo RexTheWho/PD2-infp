@@ -1,0 +1,32 @@
+<table directory="assets">
+	<add from_db="true" path="units/dev_tools/level_tools/door_blocker/door_blocker_1m" type="unit">
+		<material_config path="core/material_configs/hub_elements" unload="true"/>
+		<object path="units/dev_tools/level_tools/door_blocker/door_blocker_1m" unload="true"/>
+		<unit path="units/dev_tools/level_tools/door_blocker/door_blocker_1m" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/residential/props_residential_carpet_03_3m" type="unit">
+		<material_config path="units/world/props/apartment/residential/props_residential_carpet_03" unload="true"/>
+		<object path="units/world/props/apartment/residential/props_residential_carpet_03_3m" unload="true"/>
+		<unit path="units/world/props/apartment/residential/props_residential_carpet_03_3m" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/residential/props_residential_carpet_02_1m" type="unit">
+		<material_config path="units/world/props/apartment/residential/props_residential_carpet_02" unload="true"/>
+		<object path="units/world/props/apartment/residential/props_residential_carpet_02_1m" unload="true"/>
+		<unit path="units/world/props/apartment/residential/props_residential_carpet_02_1m" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/residential/props_residential_carpet_04_4m" type="unit">
+		<material_config path="units/world/props/apartment/residential/props_residential_carpet_04" unload="true"/>
+		<object path="units/world/props/apartment/residential/props_residential_carpet_04_4m" unload="true"/>
+		<unit path="units/world/props/apartment/residential/props_residential_carpet_04_4m" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/residential/props_residential_carpet_04_3m" type="unit">
+		<unit path="units/world/props/apartment/residential/props_residential_carpet_04_3m" unload="true"/>
+		<object path="units/world/props/apartment/residential/props_residential_carpet_04_3m" unload="true"/>
+		<material_config path="units/world/props/apartment/residential/props_residential_carpet_04" unload="true"/>
+	</add>
+</table>

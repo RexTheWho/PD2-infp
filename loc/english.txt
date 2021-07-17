@@ -1,0 +1,4 @@
+{
+	"heist_infp_name":			"Mile High",
+	"heist_infp_brief":			"brief"
+}

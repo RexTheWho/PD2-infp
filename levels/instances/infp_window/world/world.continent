@@ -1,0 +1,22 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 -8 200" _prev_rot="-0.707107 0 0 -0.707107" continent="world" disable_on_ai_graph="true" hide_on_projection_light="true" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction" name="units/world/architecture/secret_stash/props/secret_stash_planks_outline_no_sunray" name_id="secret_stash_planks_outline_no_sunray_001" position="0 -8 200" rotation="-0.707107 0 0 -0.707107" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-60 20 100" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_flat/architecture/flt_ext_apartment_exterior/flt_ext_apartment_window" name_id="res_ext_apartment_window_05_001" position="-60 10 100" rotation="0 0 1 -4.37114e-008" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 -25 150" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_001" only_visible_in_editor="true" position="0 -25 150" rotation="-0 0 -0 -1" unit_id="100002">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.72549 0.854902 1" enabled="true" falloff_exponent="1" far_range="200" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
