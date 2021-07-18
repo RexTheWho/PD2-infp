@@ -1689,8 +1689,138 @@
 		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" unload="true"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_foliage/urban_bush_angled_64" type="unit">
-		<unit path="units/pd2_dlc2/csgo_models/props_foliage/urban_bush_angled_64" unload="true"/>
-		<object path="units/pd2_dlc2/csgo_models/props_foliage/urban_bush_angled_64" unload="true"/>
 		<material_config path="units/pd2_dlc2/csgo_models/props_foliage/urban_bush_angled_64" unload="true"/>
+		<object path="units/pd2_dlc2/csgo_models/props_foliage/urban_bush_angled_64" unload="true"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_foliage/urban_bush_angled_64" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_drycleaner_washmachine/com_prop_drycleaner_washmachine" type="unit">
+		<material_config path="units/payday2/props/com_prop_drycleaner_washmachine/com_prop_drycleaner_washmachine" unload="true"/>
+		<object path="units/payday2/props/com_prop_drycleaner_washmachine/com_prop_drycleaner_washmachine" unload="true"/>
+		<unit path="units/payday2/props/com_prop_drycleaner_washmachine/com_prop_drycleaner_washmachine" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_bar_counter/com_prop_bar_kitchen_washer" type="unit">
+		<material_config path="units/payday2/props/com_prop_bar_counter/com_prop_bar_kitchen" unload="true"/>
+		<object path="units/payday2/props/com_prop_bar_counter/com_prop_bar_kitchen_washer" unload="true"/>
+		<unit path="units/payday2/props/com_prop_bar_counter/com_prop_bar_kitchen_washer" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_window_washer_01/run_prop_window_washer_01" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_window_washer_01/run_prop_window_washer_01" unload="true"/>
+		<object path="units/pd2_dlc_run/props/run_prop_window_washer_01/run_prop_window_washer_01" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_run/props/run_prop_window_washer_01/run_prop_window_washer_01" unload="true"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_window_washer_01/run_prop_window_washer_01" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_bathroom_washer_dryer/mcm_prop_bathroom_dryer" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_bathroom_washer_dryer/mcm_prop_bathroom_dryer" unload="true"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_bathroom_washer_dryer/mcm_prop_bathroom_dryer" unload="true"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_bathroom_washer_dryer/mcm_prop_bathroom_dryer" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_drycleaner_clothes/com_prop_drycleaner_clothes" type="unit">
+		<material_config path="units/payday2/props/com_prop_drycleaner_clothes/com_prop_drycleaner_clothes" unload="true"/>
+		<object path="units/payday2/props/com_prop_drycleaner_clothes/com_prop_drycleaner_clothes" unload="true"/>
+		<unit path="units/payday2/props/com_prop_drycleaner_clothes/com_prop_drycleaner_clothes" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/suburbia/props/suburbia_thinpipes_1" type="unit">
+		<material_config path="units/world/architecture/suburbia/props/suburbia_props_pipes_cables" unload="true"/>
+		<object path="units/world/architecture/suburbia/props/suburbia_thinpipes_1" unload="true"/>
+		<unit path="units/world/architecture/suburbia/props/suburbia_thinpipes_1" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/suburbia/props/suburbia_thinpipes_2" type="unit">
+		<material_config path="units/world/architecture/suburbia/props/suburbia_props_pipes_cables" unload="true"/>
+		<object path="units/world/architecture/suburbia/props/suburbia_thinpipes_2" unload="true"/>
+		<unit path="units/world/architecture/suburbia/props/suburbia_thinpipes_2" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_wallpipes_2_a" type="unit">
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_props_pipes_cables" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_wallpipes_2_a" unload="true"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_wallpipes_2_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_thinpipes_3" type="unit">
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_props_pipes_cables" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_thinpipes_3" unload="true"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_thinpipes_3" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_thinpipes_1" type="unit">
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_props_pipes_cables" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_thinpipes_1" unload="true"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_thinpipes_1" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_wallpipes_1_b" type="unit">
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_props_pipes_cables" unload="true"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_wallpipes_1_b" unload="true"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_wallpipes_1_b" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/pipes/pipe_medium_straight_2" type="unit">
+		<material_config path="units/world/props/pipes/pipes_set" unload="true"/>
+		<object path="units/world/props/pipes/pipe_medium_straight_2" unload="true"/>
+		<unit path="units/world/props/pipes/pipe_medium_straight_2" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/bed/bed_04" type="unit">
+		<material_config path="units/world/props/apartment/bed/bed_01" unload="true"/>
+		<object path="units/world/props/apartment/bed/bed_04" unload="true"/>
+		<unit path="units/world/props/apartment/bed/bed_04" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/bed/bed_03" type="unit">
+		<material_config path="units/world/props/apartment/bed/bed_01" unload="true"/>
+		<object path="units/world/props/apartment/bed/bed_03" unload="true"/>
+		<unit path="units/world/props/apartment/bed/bed_03" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/apartment/bed/bed_01" type="unit">
+		<material_config path="units/world/props/apartment/bed/bed_01" unload="true"/>
+		<object path="units/world/props/apartment/bed/bed_01" unload="true"/>
+		<unit path="units/world/props/apartment/bed/bed_01" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/survivalist/mattress/matress_single" type="unit">
+		<material_config path="units/world/props/survivalist/mattress/matress_single" unload="true"/>
+		<object path="units/world/props/survivalist/mattress/matress_single" unload="true"/>
+		<unit path="units/world/props/survivalist/mattress/matress_single" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props/de_nuke/clock" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props/de_nuke/clock" unload="true"/>
+		<object path="units/pd2_dlc2/csgo_models/props/de_nuke/clock" unload="true"/>
+		<unit path="units/pd2_dlc2/csgo_models/props/de_nuke/clock" unload="true"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/wallclock/wallclock_01" type="unit">
+		<material_config path="units/world/props/office/wallclock/wallclock_01" unload="true"/>
+		<object path="units/world/props/office/wallclock/wallclock_01" unload="true"/>
+		<unit path="units/world/props/office/wallclock/wallclock_01" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_lxy/props/yacht/clock_study/lxy_prop_clock_study" type="unit">
+		<material_config path="units/pd2_dlc_lxy/props/yacht/clock_study/lxy_prop_clock_study" unload="true"/>
+		<object path="units/pd2_dlc_lxy/props/yacht/clock_study/lxy_prop_clock_study" unload="true"/>
+		<sequence_manager path="units/world/props/small_prop" unload="true"/>
+		<unit path="units/pd2_dlc_lxy/props/yacht/clock_study/lxy_prop_clock_study" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_aru/props/aru_props_furniture_wooden_clock_01/aru_props_furniture_wooden_clock_01" type="unit">
+		<material_config path="units/pd2_dlc_aru/props/aru_props_furniture_wooden_clock_01/aru_props_furniture_wooden_clock_01" unload="true"/>
+		<object path="units/pd2_dlc_aru/props/aru_props_furniture_wooden_clock_01/aru_props_furniture_wooden_clock_01" unload="true"/>
+		<unit path="units/pd2_dlc_aru/props/aru_props_furniture_wooden_clock_01/aru_props_furniture_wooden_clock_01" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock" type="unit">
+		<material_config path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock" unload="true"/>
+		<object path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock" unload="true"/>
+		<unit path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock_unit" type="unit">
+		<material_config path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock" unload="true"/>
+		<object path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock_unit" unload="true"/>
+		<unit path="units/payday2/props/stn_prop_office_clock/stn_prop_office_clock_unit" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/leaves_maple" type="effect">
+		<effect load="true" path="effects/payday2/environment/leaves_maple" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/leaf_winded_direction_burst" type="effect">
+		<effect load="true" path="effects/payday2/environment/leaf_winded_direction_burst" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/impacts/small_particles/leaf_particles" type="effect">
+		<effect load="true" path="effects/payday2/particles/impacts/small_particles/leaf_particles" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/particles/enviroment/fx_enviroment_dustleaves_loop_01" type="effect">
+		<effect load="true" path="effects/payday2/particles/enviroment/fx_enviroment_dustleaves_loop_01" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/leaf_winded" type="effect">
+		<effect load="true" path="effects/payday2/environment/leaf_winded" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/arm_fac_cargofall" type="effect">
+		<effect load="true" path="effects/payday2/environment/arm_fac_cargofall" unload="true"/>
 	</add>
 </table>

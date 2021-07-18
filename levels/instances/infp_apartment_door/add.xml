@@ -201,11 +201,17 @@
 		<sequence_manager path="units/payday2/characters/ragdoll" unload="true"/>
 	</add>
 	<add from_db="true" path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small_no_jam" type="unit">
-		<unit path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small_no_jam" unload="true"/>
-		<object path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" unload="true"/>
-		<material_config path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" unload="true"/>
-		<sequence_manager path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" unload="true"/>
-		<gui path="guis/timer_gui" unload="true"/>
 		<bnk path="soundbanks/regular_sfx" unload="true"/>
+		<gui path="guis/timer_gui" unload="true"/>
+		<material_config path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" unload="true"/>
+		<object path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" unload="true"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" unload="true"/>
+		<unit path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small_no_jam" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/cs_gas_sealing_vent" type="effect">
+		<effect load="true" path="effects/payday2/environment/cs_gas_sealing_vent" unload="true"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/gas_vent_branchbank" type="effect">
+		<effect load="true" path="effects/payday2/environment/gas_vent_branchbank" unload="true"/>
 	</add>
 </table>

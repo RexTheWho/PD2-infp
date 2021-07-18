@@ -482,7 +482,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1000 900 500" _prev_rot="0 0 0 -1" continent="editor_only" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 500 0" local_rot="-0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="roomtext_001" position="1000 900 500" rotation="0 0 0 -1" unit_id="200149">
+			<unit_data _prev_pos="1000 900 500" _prev_rot="0 0 0 -1" continent="editor_only" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="roomtext_001" position="1000 1000 500" rotation="0 0 0 -1" unit_id="200149">
 				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 1" font_size="2.9" render_template="OverlayVertexColorTextured" text="Room 02" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -518,7 +518,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1200 1900 500" _prev_rot="0 0 0 -1" continent="editor_only" instance_data="false" local_pos="-100 1500 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="roomtext_004" position="1000 1900 500" rotation="0 0 0 -1" unit_id="200152">
+			<unit_data _prev_pos="1000 1900 500" _prev_rot="0 0 0 -1" continent="editor_only" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="roomtext_004" position="1100 2000 500" rotation="0 0 0 -1" unit_id="200152">
 				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 1" font_size="2.9" render_template="OverlayVertexColorTextured" text="Room 05" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -3921,6 +3921,54 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="9100 3700 6000" _prev_rot="0 0 0 -1" continent="editor_only" disable_on_ai_graph="true" disable_shadows="true" hide_on_projection_light="true" instance_data="false" local_pos="0 5000 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_050" position="10200 3700 6000" rotation="0 0 0 -1" unit_id="200366"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-51.539 -2225 259.822" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_001" position="-51.539 -2225 259.822" rotation="-0.707107 0 0 -0.707107" unit_id="200367">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="SW4" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2219 37.137 252.29" _prev_rot="-0.5 0.5 0.5 -0.5" continent="editor_only" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_002" position="-2219 37.137 252.29" rotation="-0.5 0.5 0.5 -0.5" unit_id="200368">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="SW1" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="30.575 2229 259.734" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="editor_only" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_003" position="30.575 2229 259.734" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="200369">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="SW2" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="2221 -43.576 258.512" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="editor_only" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_004" position="2221 -43.576 258.512" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="200370">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.59" render_template="diffuse_vc_decal" text="SW3" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
 		</table>
 	</statics>
 	<values>
